@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<appointments>
+  <appointment>
+    <patient>
+      <name>Иван</name>
+      <surname>Иванов</surname>
+    </patient>
+    <doctor>
+      <name>Смирнов</name>
+      <surname>Иван</surname>
+    </doctor>
+    <date>2024-11-29</date>
+  </appointment>
+  <appointment>
+    <patient>
+      <name>Ольга</name>
+      <surname>Петрова</surname>
+    </patient>
+    <doctor>
+      <name>Кузнецова</name>
+      <surname>Мария</surname>
+    </doctor>
+    <date>2024-11-28</date>
+  </appointment>
+  <appointment>
+    <patient>
+      <name>Алексей</name>
+      <surname>Сидоров</surname>
+    </patient>
+    <doctor>
+      <name>Ильина</name>
+      <surname>Наталья</surname>
+    </doctor>
+    <date>2024-11-27</date>
+  </appointment>
+</appointments>
